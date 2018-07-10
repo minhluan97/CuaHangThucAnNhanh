@@ -1,0 +1,9 @@
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\BUS.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\BUS.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\DAO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\DTO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\DAO.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\bin\Debug\DTO.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\obj\Debug\BUS.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\BUS\obj\Debug\BUS.pdb

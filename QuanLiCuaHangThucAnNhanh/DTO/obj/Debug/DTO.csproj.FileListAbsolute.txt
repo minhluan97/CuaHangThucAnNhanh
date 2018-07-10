@@ -1,0 +1,5 @@
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DTO\bin\Debug\DTO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DTO\bin\Debug\DTO.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DTO\obj\Debug\DTO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DTO\obj\Debug\DTO.pdb

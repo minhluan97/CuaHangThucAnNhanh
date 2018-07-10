@@ -1,0 +1,7 @@
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\bin\Debug\DAO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\bin\Debug\DAO.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\bin\Debug\DTO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\bin\Debug\DTO.pdb
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\obj\Debug\DAO.dll
+E:\DATA\Project C# ASP.NET\QuanLiCuaHangThucAnNhanh\DAO\obj\Debug\DAO.pdb
